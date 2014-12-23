@@ -1,0 +1,188 @@
+Guinness Extra Stout (re-mixed)
+
+Type: Extract
+	Date: 4/3/2005
+
+Batch Size: 5.00 gal
+	Brewer: joe
+Boil Size: 3.02 gal	Asst Brewer: sue
+Boil Time: 60 min 	Equipment: Brew Pot (4 Gallon)
+Taste Rating(out of 50): 40.0 	Brewhouse Efficiency: -
+Taste Notes: A good dry stout but not overly strong on the rosted side but with a good rosted flavor that finishes very clean and dry. Will make again!
+ 
+
+Ingredients
+
+Amount	Item	Type	% or IBU
+1.75 lb	Light Dry Extract (8.0 SRM)	Dry Extract	24.37 %
+4.00 lb	Pale Liquid Extract (8.0 SRM)	Extract	55.71 %
+0.56 lb	Caramel/Crystal Malt - 80L (80.0 SRM)	Grain	7.80 %
+0.56 lb	Roasted Barley (300.0 SRM)	Grain	7.80 %
+0.31 lb	Barley, Flaked (1.7 SRM)	Grain	4.32 %
+1.00 oz	Target [8.50 %] (60 min)	Hops	23.4 IBU
+0.50 oz	Goldings, East Kent [4.50 %] (60 min)	Hops	5.7 IBU
+1 Pkgs	Irish Ale (White Labs #WLP004)	Yeast-Ale	
+ 
+
+Beer Profile
+
+Est Original Gravity: 1.045 SG
+	Measured Original Gravity: 1.044 SG
+Est Final Gravity: 1.013 SG	Measured Final Gravity: 1.014 SG
+Estimated Alcohol by Vol: 4.27 % 	Actual Alcohol by Vol: 3.90 %
+Bitterness: 29.1 IBU	Calories: 196 cal/pint
+Est Color: 22.4 SRM	Color:
+Color
+ 
+
+Mash Profile
+Mash Name: None	Total Grain Weight: 10.00 lb
+Sparge Water: -	Grain Temperature: -
+Sparge Temperature: -	TunTemperature: -
+Adjust Temp for Equipment: FALSE	Mash PH: -
+ 
+
+Steep grains as desired (30-60 minutes)
+ 
+Mash Notes: -
+
+Carbonation and Storage
+Carbonation Type: Corn Sugar	Volumes of CO2: 2.4
+Pressure/Weight: 4.1 oz	Carbonation Used: .5 c
+Keg/Bottling Temperature: 68.0 F	Age for: 14.0 days
+Storage Temperature: 68.0 F
+--------------------------------------------------------------------------------------------------
+Honey Pilsner
+
+Type: Extract
+	Date: 6/13/2003
+
+Batch Size: 5.00 gal
+	Brewer: Ed Terry
+Boil Size: 3.03 gal	Asst Brewer:
+Boil Time: 15 min 	Equipment: Brew Pot (4 Gallon)
+Taste Rating(out of 50): 40.0 	Brewhouse Efficiency: -
+Taste Notes: Refreshing, and dry... nice balanced hop finish
+ 
+
+Ingredients
+
+Amount	Item	Type	% or IBU
+2.00 lb	Honey (1.0 SRM)	Adjunct	29.63 %
+1.00 lb	Light Dry Extract (8.1 SRM)	Dry Extract	14.81 %
+3.75 lb	Pilsner Liquid Extract (3.5 SRM)	Extract	55.56 %
+1.03 gal	Dallas, TX	Water	
+ 
+
+Beer Profile
+
+Est Original Gravity: 1.038 SG
+	Measured Original Gravity: 1.060 SG
+Est Final Gravity: 1.010 SG	Measured Final Gravity: 1.009 SG
+Estimated Alcohol by Vol: 3.62 % 	Actual Alcohol by Vol: 6.65 %
+Bitterness: 0.0 IBU	Calories: 266 cal/pint
+Est Color: 4.3 SRM	Color:
+Color
+ 
+
+Mash Profile
+Mash Name: None	Total Grain Weight: 10.00 lb
+Sparge Water: -	Grain Temperature: -
+Sparge Temperature: -	TunTemperature: -
+Adjust Temp for Equipment: FALSE	Mash PH: -
+ 
+
+ 
+Mash Notes: -
+
+Carbonation and Storage
+Carbonation Type: Corn Sugar	Volumes of CO2: 2.4
+Pressure/Weight: 3.8 oz	Carbonation Used: -
+Keg/Bottling Temperature: 60.1 F	Age for: 28.0 days
+Storage Temperature: 52.0 F
+-------------------------------------------------------
+http://www.brewmasterswarehouse.com/recipe/937d7310/that-guy-pyramid-hefeweizen-clone
+---------------------------------------------------------
+Anchor Steam clone
+
+5 Gallons; OG = 1.055; FG = 1.015, partial grain
+
+Ingredients:
+
+    8 lbs. Alexander’s pale malt extract
+    8 oz. crystal malt, 40° Lovibond
+    2 oz. Northern Brewer hops (8.8% alpha acid): 1.5 oz. for 60 min., 0.5 oz. for 15 min.
+    1 oz. Cascade hops (5.2% alpha acid) for 2 min.
+    1 tsp. Irish moss for 15 min.
+    Wyeast 2112 (California lager) or dry lager yeast
+    3/4 cup corn sugar for priming
+
+Step by Step:
+
+Put crystal malt in muslin bag and add to 1.5 gal. water. On medium heat bring water to 175° F. Remove pot from heat and remove bag of crystal. Add extract and return to a boil. Total boil is 60 min. Add 1.5 oz. Northern Brewer at start of boil and boil 45 min. more. Add 0.5 oz. Northern Brewer and Irish moss and boil 13 min. more. Strain out excess hops and add Cascade hops for last 2 min. of boil. Top up to 5 gal. with cold, preboiled water. Cool to 70° to 75° F and pitch yeast.
+
+Primary ferment for seven to 10 days at 65° F. Transfer to secondary and ferment for two weeks at 55° F. Prime with corn sugar and bottle.
+http://byo.com/stories/recipeindex/article/recipes/89-american-lager/140-anchor-steam-clone
+--------------------------------------------------------------------
+Honey Steamer
+Author 	Gary and Elisa Wilder
+Issue 	June 1997
+
+Honey Steamer
+
+5 gallons, extract/specialty grains
+
+Ingredients:
+
+    6.5 lbs. light malt extract syrup
+    0.5 lb. crystal malt, 40° Lovibond
+    2.5 lbs. honey
+    1 oz. Bullion hops (8.1% alpha acid), for 25 min.
+    1 oz. Cluster hops (7.4% alpha acid), for 10 min.
+    1/3 oz. Irish moss
+    Wyeast 2112 (California) 
+
+Step by Step:
+
+Add crystal malt (in bag) to 2 gals. cold water. Slowly bring to 170° F. Remove grains, bring liquid to boil, and add extract and honey. Boil for 35 minutes, then add Bullion hops.
+
+Boil for 15 more minutes, and then add Cluster hops and Irish moss. Boil 10 minutes. Total boil is 60 minutes. Remove from heat and cool. Add water to make 5 gals.
+
+Pitch yeast. Prime with corn sugar. 
+http://byo.com/stories/recipeindex/article/recipes/89-american-lager/851-honey-steamer
+-----------------------------------------------------------------------------------------
+Sam Adams Winter Lager clone
+Issue 	October 2001
+
+Sam Adams Winter Lager clone
+
+5 gallon, extract with grains; OG = 1.069  FG = 1.016  IBUs = 26 to 30
+
+Ingredients:
+
+    6.6 lbs. Briess wheat malt extract syrup
+    1.5 lbs. crystal malt (60° Lovibond)
+    1 lb. wheat malt
+    1.5 lbs. Munich malt (20° Lovibond)
+    1 teaspoon Irish moss
+    1 oz. Curacáo orange peel (bitter orange peel)
+    0.5 oz. ginger root (freshly grated)
+    0.5 tsp. cinnamon (powdered)
+    9.5 AAU East Kent Goldings (2 oz. of 4.75% alpha acid)
+    4.5 AAU Tettnanger (1 oz. of 4.5% alpha acid)
+    4.7 AAU Hallertau Hersbrucker (1 oz. of 4.7% alpha acid)
+    3/4 cup corn sugar to prime
+    German Lager yeast (White Labs WLP830) or Bavarian Lager yeast (Wyeast 2206)
+
+Step by Step:
+
+Steep the grains in 2.5 gallons of water at 150º F for 30 minutes. Strain out the grains, add the wheat malt syrup and return to a boil. When the wort begins boiling, add East Kent Golding hops, Irish moss, and boil for 60 minutes. Add spices for the last 15 minutes of the boil.        
+
+Add Tettnanger and Hallertau hops for the last 2 minutes of the boil. Remove from heat and cool wort in ice bath or with wort chiller. Transfer to fermentation vessel (glass carboy). Add enough cold water to the wort to bring the volume up to 5.5 gallons. Pitch yeast and ferment at 50º to 55º F for 3 to 4 weeks. Prime, then bottle or keg. You should lager this beer for about 4 weeks prior to serving.
+
+All-Grain Option:
+
+Replace the wheat malt syrup with 3.5 pounds of pale malt. Increase the Munich malt to 4 pounds and the wheat malt to 4 pounds. Also change the boiling hops to a smaller quantity, 7 AAU (1.5 oz of 4.75% alpha acid). I would suggest a two-step mash schedule for this beer. This involves doing a 30-minute protein rest at 122º F, followed by 60 minutes at 155º F.            
+
+Note that the quantity of boiling hops are slightly lower for the all-grain batch. This is due to the greater hop extract efficiency that results from a full boil of the entire wort volume. The remainder of the hop, spice additions and fermenting instructions are the same as the above extract-with-grains recipe instructions.
+http://byo.com/stories/recipeindex/article/recipes/89-american-lager/2213-sam-adams-winter-lager-clone
